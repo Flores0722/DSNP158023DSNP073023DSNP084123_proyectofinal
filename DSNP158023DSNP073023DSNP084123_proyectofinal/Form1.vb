@@ -1,4 +1,10 @@
 ﻿Public Class Form1
+
+    ' Dispones de 6 fallos
+    ' Letra acertada suma 1 punto.
+    ' Texto resuelto suma 50 puntos.
+    ' -3 puntos por fallo.
+
     Dim ahorcado As Ahorcado = New Ahorcado()
     Dim errores As SByte = 0
     Dim palabraObtenida As String = ""
