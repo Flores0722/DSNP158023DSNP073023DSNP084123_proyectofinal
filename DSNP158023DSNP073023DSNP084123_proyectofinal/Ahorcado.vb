@@ -30,6 +30,4 @@
         End If
         Return palabras(indiceCategoria)(indicePalabra)
     End Function
-
-
 End Class
